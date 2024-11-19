@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hieu Luu</h1>
 <h3 align="center">A passionate code learner from VietNam</h3>
 
-- 🔭 I’m currently working on [Sorting Project](https://github.com/HieuMagic/Sorting-Project)
+- 🔭 I’m currently working on [Socket_TCP_UDP](https://github.com/HieuMagic/Socket_TCP_UDP)
 
 - 🌱 I’m currently learning **DSA**
 
-- 🤝 I’m looking for help with [Sorting Project](https://github.com/HieuMagic/Sorting-Project)
+- 🤝 I’m looking for help with [Socket_TCP_UDP](https://github.com/HieuMagic/Socket_TCP_UDP)
 
 - 💬 Ask me about **everything u want**
 
